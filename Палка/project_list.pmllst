@@ -1,0 +1,20 @@
+type list
+version 0
+Toolpath\
+Group\
+Pattern\
+Workplane\
+Setup\
+FeatureGroup\
+Boundary\
+Macro\
+Featureset\
+NCProgram\
+Level\
+Level\0
+Tool\
+Process\
+MachineTool\
+StockModel\
+Model\
+Model\Деталь1

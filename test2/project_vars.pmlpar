@@ -1,0 +1,39 @@
+{
+	"type" : "Project",
+	"time" : "1725639021",
+	"version" : "0"
+}
+{
+	"Programmer" "S" "Имя программиста, создавшего этот проект." "5c8e922f66dadcc00035904300000000" : "minat",
+	"Customer" "S" "Имя заказчика проекта." "5c8eb50f66dadcc00035904500000000" : "",
+	"TextBlocks" "M" "Место под текстовый объект." "5c8eceaf66dadcc00035904700000000" : {
+	},
+	"HoleTagCatalog" "S" "Последний используемый каталог для этого проекта." "5c8ec84f66dadcc00035904900000000" : "",
+	"FusionProductionJob" : {
+		"Name" : "${project_pathname(1)}",
+		"Instructions" : "${Project.Notes}",
+		"Tags" : (
+		),
+		"TaskList" : (
+		)
+	},
+	"A360" "M" "Параметры A360 для этого проекта PowerMill." : {
+		"Hub" "S" "ID хаба A360" : "",
+		"Folder" "S" "ID папки A360" : "",
+		"Project" "S" "ID проекта A360" : ""
+	},
+	"ThicknessSets" "M" "Место под набор припусков." "5c8ecb0f66dadcc00035904f00000000" : {
+	},
+	"PartName" "S" "Имя детали для этого проекта." "5c8dc6ef66dadcc00035905100000000" : "",
+	"ProjectHistory" "LM" "история проекта." "5c8dc70f66dadcc00035905300000000" : (
+		{
+			"ClientName" "S" "Имя клиентского ПО." "5c8dc7cf66dadcc00035905500000000" : "PowerMill",
+			"ClientVersion" "S" "Версия клиентского ПО." "5c8dc98f66dadcc00035905700000000" : "2024001",
+			"DmkCodebase" "S" "Codebase библиотек." "5c8dc4ef66dadcc00035905900000000" : "2024019"
+		}
+	),
+	"Tolerances" "M" "Место под значения допусков." "5c8dc5cf66dadcc00035905b00000000" : {
+	},
+	"OrderNumber" "S" "Номер заказа проекта." "5c8dc88f66dadcc00035905d00000000" : "",
+	"Notes" "S" "Описание этого проекта." "5c8dc8ef66dadcc00035905f00000000" : ""
+}

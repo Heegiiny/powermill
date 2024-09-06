@@ -1,0 +1,14 @@
+11 4 2024001 2024019 64 # Entity Index (DO NOT EDIT!)
+0 2
+06 сен 2024 19.10.19
+x063a5f2766da2c4800003dd700000000.pmlent pmlEntLevel '0'
+x078dd65766da2cfa000341a600000000.pmlent pmlEntWorkplane 'G54'
+x0795109766da2db7000d63d800000000.pmlent pmlEntTool 'EM10x2'
+x08081b0766da2f44000eca2d00000000.pmlent pmlEntToolpath '1'
+x5346817f66da33e7001a85ad00000000.pmlent pmlEntBoundary '1'
+x00e7795766da349d001d05a300000000.pmlent pmlEntToolpath '2'
+x0a7e0b0766da39210029171b00000000.pmlent pmlEntToolpath '3'
+x73a2e12f66da3b330034feba00000000.pmlent pmlEntNCProgram '1'
+x1f33665766da2c3e0000272c00000000.pmlent pmlEntModel 'Gos'
+x3882b01e66dae92400037ae100000000.pmlent pmlEntWorkplane '1'
+x3ca307ce66db11fb00248d7100000000.pmlent pmlEntMachineTool 'Roland_MDX40A_NC'

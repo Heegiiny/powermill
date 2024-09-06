@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<machine xmlns="x-schema:PowermillMachineTool" POST="pmpMultiaxis.*">
+  <table_attach_point PART="table" X="0" Y="0" Z="0" />
+  <head_attach_point PART="head" X="0" Y="0" Z="100" I="0" J="0" K="1" U="1" V="0" W="0" />
+  <machine_part>
+    <axis>
+      <control_info ADDRESS="Y" MIN="0" MAX="305" />
+      <simple_linear I="0" J="-1" K="0" />
+    </axis>
+    <machine_part>
+      <axis>
+        <control_info ADDRESS="A" MIN="0" MAX="100" />
+        <simple_rotary X="0" Y="0" Z="0" I="1" J="0" K="0" />
+      </axis>
+      <machine_part NAME="table" />
+    </machine_part>
+  </machine_part>
+  <machine_part>
+    <axis>
+      <control_info ADDRESS="X" MIN="0" MAX="305" />
+      <simple_linear I="1" J="0" K="0" />
+    </axis>
+    <machine_part>
+      <axis>
+        <control_info ADDRESS="Z" MIN="-100" MAX="0" />
+        <simple_linear I="0" J="0" K="1" />
+      </axis>
+      <machine_part NAME="head" />
+    </machine_part>
+  </machine_part>
+</machine>
