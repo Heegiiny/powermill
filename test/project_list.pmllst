@@ -1,0 +1,28 @@
+type list
+version 0
+Toolpath\
+Toolpath\1
+Toolpath\2
+Toolpath\3
+Group\
+Pattern\
+Workplane\
+Workplane\G54
+Setup\
+FeatureGroup\
+Boundary\
+Boundary\1
+Macro\
+Featureset\
+NCProgram\
+NCProgram\1
+Level\
+Level\0
+Tool\
+Tool\EM10x2
+Process\
+MachineTool\
+MachineTool\Roland_MDX40A_NC
+StockModel\
+Model\
+Model\Gos

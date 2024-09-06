@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<session version="3.0" type="file">
+  <optfile>
+    <opt name="Roland_MDX40A_NC.pmoptz" lmdate="1725559615191" />
+  </optfile>
+  <params>
+    <output-folder value="" use-cldata-folder="true" />
+    <output-name-template value="%cldata_%optfile" take-from-optfile="true" />
+    <extension value="tap" take-from-optfile="true" />
+  </params>
+  <cutfiles />
+</session>
