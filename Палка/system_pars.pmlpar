@@ -1,6 +1,6 @@
 {
 	"type" : "powermill",
-	"time" : "1725638981",
+	"time" : "1725652969",
 	"version" : "1"
 }
 {
@@ -87,7 +87,7 @@
 	},
 	"Import" : {
 		"DeferLoading" : "0",
-		"DefaultExtensionIndex" : "1",
+		"DefaultExtensionIndex" : "13",
 		"IgnoreHierarchy" : "1",
 		"SplitSolids" : "1",
 		"CreateSplitSets" : "0",
@@ -211,7 +211,7 @@
 	},
 	"HoleCreation" : {
 		"MaxGapComponentDepth" : "5.0",
-		"CreateFrom" : "points",
+		"CreateFrom" : "model",
 		"FindDirection" : {
 			"FromSurfaces" : "1",
 			"FromBlock" : "1",

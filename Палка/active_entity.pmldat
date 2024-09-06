@@ -1,1 +1,9 @@
-0 1 # Active Entities (DO NOT EDIT!)
+8 1 # Active Entities (DO NOT EDIT!)
+9da358f366db5fba000d1ed500000000 pmlEntPattern '1'
+f6c0494b66db5f47000cc7ec00000000 pmlEntToolpath '1'
+ae7a6ea366db5e97000bbe6800000000 pmlEntBoundary '3'
+f666853b66db5816000abbd000000000 pmlEntMachineTool 'Roland_MDX40A_NC'
+f545986b66db5395000675a100000000 pmlEntFeature '1'
+f466fe3b66db4a81000395c900000000 pmlEntWorkplane 'G56'
+f61a0beb66db562c0008d3c600000000 pmlEntTool '1'
+cb68a7f666db287d0000285a00000000 pmlEntLevel '0'
