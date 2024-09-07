@@ -1,0 +1,22 @@
+19 4 2024001 2024019 64 # Entity Index (DO NOT EDIT!)
+0 2
+07 сен 2024 20.23.51
+xcb68a7f666db287d0000285a00000000.pmlent pmlEntLevel '0'
+xd689d70b66db3c3e00003feb00000000.pmlent pmlEntLevel 'New components from reimported model Деталь1'
+xd5cf184b66db3ec10000749500000000.pmlent pmlEntLevel 'New components from reimported model Деталь1_1'
+xf302ef3b66db47760001638c00000000.pmlent pmlEntWorkplane '1'
+xf2b8edbb66db47d40001852a00000000.pmlent pmlEntWorkplane 'Machine'
+xf466fe3b66db4a81000395c900000000.pmlent pmlEntWorkplane 'G56'
+xf4a8a6bb66db50150004f5fe00000000.pmlent pmlEntLevel 'New components from reimported model Деталь1_2'
+xf467317b66db50490005587000000000.pmlent pmlEntLevel 'New components from reimported model Деталь1_3'
+xd07b5b5b66db53230005edb000000000.pmlent pmlEntToolpath '2'
+xf545986b66db5395000675a100000000.pmlent pmlEntFeature '1'
+xf544ec4b66db53c300069cae00000000.pmlent pmlEntBoundary '1'
+xf3520eeb66db55700008690f00000000.pmlent pmlEntBoundary '2'
+xf61a0beb66db562c0008d3c600000000.pmlent pmlEntTool '1'
+xf666853b66db5816000abbd000000000.pmlent pmlEntMachineTool 'Roland_MDX40A_NC'
+xae7a6ea366db5e97000bbe6800000000.pmlent pmlEntBoundary '3'
+xf6c0494b66db5f47000cc7ec00000000.pmlent pmlEntToolpath '1'
+x9da358f366db5fba000d1ed500000000.pmlent pmlEntPattern '1'
+xf64a8e4b66db5826000ac1d600000000.pmlent pmlEntNCProgram '1'
+xf279f58b66db3efd0000bb0e00000000.pmlent pmlEntModel 'Деталь1'

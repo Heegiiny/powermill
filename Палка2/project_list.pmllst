@@ -1,0 +1,53 @@
+type list
+version 0
+Toolpath\
+Toolpath\2
+Toolpath\1
+Group\
+Pattern\
+Pattern\1
+Workplane\
+Workplane\1
+Workplane\Machine
+Workplane\G56
+Setup\
+FeatureGroup\
+Boundary\
+Boundary\1
+Boundary\2
+Boundary\3
+Macro\
+Featureset\
+Featureset\1
+NCProgram\
+NCProgram\1
+Level\
+Level\0
+Level\New components from reimported model Äåòàëü1
+Level\New components from reimported model Äåòàëü1_1
+Level\New components from reimported model Äåòàëü1_2
+Level\New components from reimported model Äåòàëü1_3
+Tool\
+Tool\1
+Process\
+MachineTool\
+MachineTool\Roland_MDX40A_NC
+StockModel\
+Model\
+Model\Äåòàëü1
+Toolpath\
+Group\
+Pattern\
+Workplane\
+Setup\
+FeatureGroup\
+Boundary\
+Macro\
+Featureset\
+NCProgram\
+Level\
+Tool\
+Process\
+MachineTool\
+StockModel\
+Model\
